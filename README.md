@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi 👋
+My name is Suresh Thagunna and I'm from a special country, Nepal. I'm currently living in Canada. Going way back to my childhood I vivdly remember me being awed by a used flip phone my father had gotten. I belive that is where it all started.
 
 <!--
 **suresh466/suresh466** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
